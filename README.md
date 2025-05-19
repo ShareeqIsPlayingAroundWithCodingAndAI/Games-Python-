@@ -1,1 +1,1 @@
-Playing around with Python & Javascript OOP, AI (ChatGPT & Copilot) 
+Playing around with Python OOP & AI (ChatGPT & Copilot) to create some basic games
