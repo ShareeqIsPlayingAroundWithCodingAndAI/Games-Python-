@@ -1,1 +1,1 @@
-Playing around with Python and AI to create some simple python games
+Playing around with Python & Javascript OOP, AI (ChatGPT & Copilot) 
